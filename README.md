@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Fikri Ikmalul Ilmi**.\
 Saya mahasiswa Teknik Informatika di Universitas Muhadi Setiabudi.  
 Saya mengikuti Studi Independent **Cloud Computing Cohort Bangkit Academy 2023**.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedInku](https://www.linkedin.com/in/fikriikmalulilmi/) ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedInku](https://www.linkedin.com/in/fikriikmalul/) ya.
 
 <p align="left">
 <a href="https://github.com/fikriikmalul">
